@@ -1,0 +1,5 @@
+1. Pastikan 20 file artikel, 1 file kalimat uji, dan file .py sudah dalam satu folder
+
+2. Kemudian run file .py dengan terminal. " python tugas_pekan_2_nlp.py "
+
+3. Lalu akan ditampilkan kalimat-kalimat dari 20 artikel, frekuensi unigram, 10 frekuensi unigram paling banyak, probabilitas unigram, frekuensi bigram, probabilitas bigram, 10 probabilitas bigram tertinggi, kalimat-kalimat uji, hasil probability bigram dan perplexity pada kalimat uji yang tidak di smoothing dan di smoothing
